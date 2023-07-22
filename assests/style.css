@@ -496,6 +496,7 @@ svg{
 .footer__copy{
   font-size: var(--smaller-font-size);
   margin-top: 2rem;
+  color: gainsboro;
 }
 
 /* ================== FOR BIG SCREEN ================= */
